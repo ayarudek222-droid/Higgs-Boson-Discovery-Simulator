@@ -1,4 +1,4 @@
-# שאילתה חכמה יותר שמסדרת את הנתונים לפי לוגיקה של משחק
+
         query = """
             SELECT EventId, DER_mass_vis, DER_pt_h, Label 
             FROM events 
